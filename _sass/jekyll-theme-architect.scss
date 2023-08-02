@@ -20,7 +20,7 @@ a {
   color: rgb(0, 71, 94);
 }
 a:hover {
-  color: rgb(13, 145, 98);
+  color: #0d9162;
 }
 
 header {
@@ -28,7 +28,7 @@ header {
   padding-bottom: 40px;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   background: #ffffff url(../images/dex-pump.png) 50% 0 no-repeat;
-  border-bottom: solid 1px #275da1;
+  border-bottom: solid 0px #275da1;
 }
 
 header h1 {
@@ -49,7 +49,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #9ddcff;
+  color: #0d9162;
   letter-spacing: 0;
 }
 
@@ -201,7 +201,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #9ddcff;
+  color: #0d9162;
   content: "/";
 }
 
@@ -217,7 +217,7 @@ form {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
-  color: #9ddcff;
+  color: #0d9162;
 }
 
 #main-content h3 {
@@ -234,7 +234,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: #0d9162;
 }
 
 #main-content h4 {
@@ -250,7 +250,7 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #9ddcff;
+  color: #0d9162;
 }
 
 #main-content h5 {
@@ -264,7 +264,7 @@ h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
-  color: #9ddcff;
+  color: #0d9162;
 }
 
 #main-content h6 {
@@ -278,7 +278,7 @@ h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
-  color: #9ddcff;
+  color: #0d9162;
 }
 
 p {
@@ -411,7 +411,7 @@ footer a:hover {
     line-height: 1;
     color: #2879d0;
     text-align: center;
-    background-color: #9ddcff;
+    background-color: #0d9162;
     background-image: none;
     border-radius: 5px;
     -moz-border-radius: 5px;
