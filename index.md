@@ -4,11 +4,11 @@ layout: default
 
 ## About Dex-Pump
 
-Dex-Pump is an Oklahoma City based startup seeking an operator in the OK Mississippian Play to test their innovative pump.
+Dex-Pump is an Oklahoma City-based startup seeking an operator in the OK Mississippian Play to test their innovative pump.
 
-The Dex-Pump extends the life of mature rod pumped horizontal wells by extending the pumping system intake deep into the curve removing backpressure on the reservoir.
+The Dex-Pump extends the life of mature rod-pumped horizontal wells by extending the pumping system intake deep into the curve, removing backpressure on the reservoir.
 
-The Dex-Pump system attaches to the bottom of a conventional rod pumping system and uses a bladder pump located at the end of 2 3/8’ riser tubing (~500’) to move fluid from the bottom of the curve. 
+The Dex-Pump system attaches to the bottom of a conventional rod pumping system and uses a bladder pump located at the end of 2⅜’ riser tubing (~500’) to move fluid from the bottom of the curve. 
 
 The power fluid for the Dex-Pump is compressed air which operates the bladder pump via capillary tubing attached to the outside of the production tubing and riser tubing. 
 
@@ -24,4 +24,4 @@ The power fluid for the Dex-Pump is compressed air which operates the bladder pu
 
 ## How it Works
 
- <img src="/assets/images/Dex-Pump-Model.png" alt="DEX-PUMP Model"> 
+ <img src="/assets/images/Dex-Pump-Model.png" alt="DEX-PUMP Model" style="margin-top: 1em;"> 
