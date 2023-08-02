@@ -19,8 +19,8 @@
   <body>
     <header style="height: fit-content; margin-top:5%; margin-bottom: 3%;">
       <div class="inner">
-        <img src="dex-pump.png" alt="DEX-PUMP" width="100%" height="auto"> 
-        <a href="{{ '/' | absolute_url }}">
+        <img src="/assets/images/dex-pump.png" alt="DEX-PUMP" width="100%" height="auto"> 
+        <!--<a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
@@ -29,7 +29,7 @@
         {% endif %}
         {% if site.github.is_user_page %}
          <a href="{{ site.github.owner_url }}" class="button"><small></small></a>
-        {% endif %}
+        {% endif %}-->
       </div>
     </header>
 
@@ -39,8 +39,11 @@
           {{ content }}
         </section>
 
-       <!--- <aside id="sidebar">
-          {% if site.show_downloads %}
+       <aside id="sidebar">
+        <p>Contact Us</p>
+         <p><A HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%67%72%65%67%40%64%65%78%2D%70%75%6D%70%2E%63%6F%6D">Greg McGowen, CEO</A></p>
+         <p><A HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6A%6F%68%6E%40%64%65%78%2D%70%75%6D%70%2E%63%6F%6D">John Frick, Partner</A></p>
+          <!--{% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
               .zip file
@@ -48,12 +51,12 @@
             <a href="{{ site.github.tar_url }}" class="button">
               <small>Download</small>
               .tar.gz file
-            </a>-->
-          {% endif %}
+            </a>
+          {% endif %}-->
 
-          {% if site.github.is_project_page %}
-            <!--<p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>-->
-          {% endif %}
+          <!--{% if site.github.is_project_page %}
+            <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+          {% endif %} -->
 
           <p></p>
         </aside>
