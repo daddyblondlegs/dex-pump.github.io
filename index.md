@@ -21,3 +21,7 @@ The power fluid for the Dex-Pump is compressed air which operates the bladder pu
 - Electric motor driven pumping unit with POC
 - Single digit decline rate
 - Low failure rate well
+
+## How it Works
+
+ <img src="/assets/images/Dex-Pump-Model.png" alt="DEX-PUMP Model"> 
